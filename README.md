@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI-Based Resume Matcher
 
 An automated tool to rank resumes against a job description using NLP and Machine Learning.
@@ -30,3 +31,7 @@ An automated tool to rank resumes against a job description using NLP and Machin
 Results are saved in `output/` folder:
 - `ranking.csv`
 - `ranking_plot.png`
+=======
+# AI-Based-Resume-Matcher
+ml project
+>>>>>>> 523224cd4661a0ef818ab1da864573a5bdbe4549
