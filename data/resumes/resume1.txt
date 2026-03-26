@@ -1,0 +1,6 @@
+John Doe
+Software Engineer
+Experience: 6 years
+Skills: Python, Django, Docker, AWS, Git, Machine Learning.
+Education: B.S. in Computer Science.
+I have worked on building scalable web applications and deploying them to the cloud.

@@ -1,0 +1,38 @@
+{
+    "programming": [
+        "python",
+        "java",
+        "c++",
+        "javascript",
+        "golang",
+        "rust"
+    ],
+    "datascience": [
+        "machine learning",
+        "deep learning",
+        "nlp",
+        "pandas",
+        "numpy",
+        "scikit-learn",
+        "tensorflow",
+        "pytorch"
+    ],
+    "web": [
+        "fastapi",
+        "flask",
+        "django",
+        "react",
+        "html",
+        "css",
+        "nodejs"
+    ],
+    "tools": [
+        "docker",
+        "kubernetes",
+        "git",
+        "aws",
+        "azure",
+        "linux",
+        "sql"
+    ]
+}

@@ -1,0 +1,6 @@
+Bob Johnson
+Junior Developer
+Experience: 1 year
+Skills: Python, HTML, CSS, JavaScript.
+Education: Bootcamp Graduate.
+Eager to learn and contribute to backend development teams.

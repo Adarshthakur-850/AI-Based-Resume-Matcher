@@ -1,0 +1,5 @@
+Senior Python Developer
+We are looking for an experienced Python developer with 5+ years of experience.
+Must have strong skills in Python, Django, or FastAPI.
+Experience with Machine Learning, NLP, and Docker is a plus.
+Knowledge of AWS and Git is required.

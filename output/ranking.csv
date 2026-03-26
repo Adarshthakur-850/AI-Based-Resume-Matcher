@@ -1,0 +1,4 @@
+filename,score,semantic_match,skill_match,experience_match,skills_found,experience_years
+resume1.txt,83.45,81.9,75.0,100.0,"docker, python, aws, git, django, machine learning",6
+resume3.txt,36.53,57.56,12.5,20.0,python,1
+resume2.txt,30.94,29.89,0.0,80.0,,4
